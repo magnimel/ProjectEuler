@@ -1,4 +1,4 @@
 # ProjectEuler
 
-Solutions for problems on ProjectEuler: https://projecteuler.net
+My solutions for problems on ProjectEuler: https://projecteuler.net
 
